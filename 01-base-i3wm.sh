@@ -24,7 +24,7 @@ sudo apt install xorg \
                  flameshot \
                  xfce4-notifyd \
                  xfce4-power-manager \
-                 #feh \
+                 feh \
                  wicd-gtk \
                  wicd-curses \
                  wicd-cli \
