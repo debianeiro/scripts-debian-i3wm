@@ -66,4 +66,5 @@ sudo apt install xorg \
                  mousepad \
                  cups \
                  printer-driver-escpr \
+                 wpasupplicant \
 
