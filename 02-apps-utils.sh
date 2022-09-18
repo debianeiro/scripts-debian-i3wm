@@ -4,7 +4,7 @@
 
 sudo apt install thunderbird \
                  thunderbird-l10n-pt-br \
-                 firefox \
+                 firefox-esr \
                  firefox-l10n-ptbr \
                  libreoffice \
                  libreoffice-l10n-pt-br \
@@ -17,7 +17,7 @@ sudo apt install thunderbird \
                  vlc \
                  vlc-l10n \
                  vlc-plugin-visualization
-                 chromiun \
+                 chromium \
                  transmission \
                  atril \
                  poppler-utils \
