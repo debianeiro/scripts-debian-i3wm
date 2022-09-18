@@ -59,7 +59,7 @@ sudo apt install xorg \
                  pulseeffects \
                  pavucontrol \
                  #yad
-                 network-manager \
+                 Network-Manager \
                  system-config-printer \
                  firmware-linux-nonfree \
                  blueman \
