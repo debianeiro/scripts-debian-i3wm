@@ -7,7 +7,7 @@ sudo apt install xorg \
                  i3-wm \
                  i3blocks \
                  i3status \
-                 i3lock
+                 i3lock \
                  suckless-tools \
                  j4-dmenu-desktop \
                  nitrogen \
