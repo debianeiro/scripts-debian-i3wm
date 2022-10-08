@@ -5,7 +5,7 @@
 sudo apt install thunderbird \
                  thunderbird-l10n-pt-br \
                  firefox-esr \
-                 firefox-l10n-ptbr \
+                 firefox-esr-l10n-ptbr \
                  libreoffice \
                  libreoffice-l10n-pt-br \
                  libreoffice-gnome \
